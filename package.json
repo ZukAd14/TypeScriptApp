@@ -11,5 +11,9 @@
   },
   "scripts": {
     "watch": "nodemon"
+  },
+  "dependencies": {
+    "consola": "2.15.3",
+    "typescript": "^5.2.2"
   }
 }
